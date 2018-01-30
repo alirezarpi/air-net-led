@@ -1,7 +1,7 @@
 # air-net-led
 **It's simple..**
 
-`$ chmod +x air-net-led.sh && mv !$ /usr/bin/`
+`$ chmod +x air-net-led.sh && mv air-net-led.sh /usr/bin/`
 
 Remember to run it as **root user** (`$ sudo air-net-led.sh &` )
 
