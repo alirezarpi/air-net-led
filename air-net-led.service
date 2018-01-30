@@ -1,8 +1,8 @@
 [Unit]
-Description=Airplane Led Network Monitor
+Description=Monitor Internet Access With Airplane LED
 
 [Service]
-ExecStart=$HOME/air-net-led.sh
+ExecStart=/usr/bin/air-net-led.sh
 
 [Install]
 WantedBy=multi-user.target
