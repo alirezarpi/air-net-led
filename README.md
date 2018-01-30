@@ -9,6 +9,8 @@ Airplane LED **OFF** = Internet Access
 
 **Install:**
 
+After clone:
+
 `$ cd air-net-led/`
 
 `$ chmod +x air-net-led.sh && sudo cp air-net-led.sh /usr/bin/`
