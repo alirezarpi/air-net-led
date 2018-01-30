@@ -1,0 +1,8 @@
+[Unit]
+Description=Airplane Led Network Monitor
+
+[Service]
+ExecStart=$HOME/air-net-led.sh
+
+[Install]
+WantedBy=multi-user.target
