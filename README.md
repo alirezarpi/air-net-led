@@ -5,7 +5,7 @@ Airplane LED **ON** = No Internet Access
 
 Airplane LED **OFF** = Internet Access
 
-`-----------------------------------------`
+`----------------------------------------------------------------`
 
 **Install:**
 
@@ -13,7 +13,10 @@ Airplane LED **OFF** = Internet Access
 
 `$ chmod +x air-net-led.sh && sudo cp air-net-led.sh /usr/bin/`
 
+
 Remember to run it as **root user** (`$ sudo air-net-led.sh &` )
+
+`----------------------------------------------------------------`
 
 You can do 
 
@@ -21,7 +24,9 @@ You can do
 
 to run at boot time.
 
+`----------------------------------------------------------------`
 
 NOTE: Tested on Asus Laptops -Ubuntu- 
+
 
 Hope you enjoy
