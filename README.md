@@ -17,6 +17,6 @@ You can do `sudo mv air-net-led.service /etc/systemd/system/ && sudo systemctl e
 to run at boot time.
 
 
-NOTE: Tested on Asus Laptops.
+NOTE: Tested on Asus Laptops -Ubuntu- 
 
 Hope you enjoy
