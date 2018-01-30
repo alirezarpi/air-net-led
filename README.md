@@ -1,5 +1,9 @@
 # air-net-led
 **It's simple..**
+Airplane LED **ON** = No Internet Access
+Airplane LED **OFF** = Internet Access
+
+**Install:**
 
 `$ chmod +x air-net-led.sh && sudo mv air-net-led.sh /usr/bin/`
 
