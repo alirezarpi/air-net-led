@@ -1,6 +1,8 @@
 # air-net-led
 **It's simple..**
 
+You wont need to run pings to see if you have Internet Access, because:
+
 Airplane LED **ON** = No Internet Access
 
 Airplane LED **OFF** = Internet Access
