@@ -30,7 +30,7 @@ to run at boot time.
 
 `----------------------------------------------------------------`
 
-NOTE: Tested on Asus Laptops -Ubuntu- 
+NOTE: Tested on Asus Laptops -Debian Base- 
 
 
 Hope you enjoy
