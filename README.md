@@ -9,7 +9,7 @@ Airplane LED **OFF** = Internet Access
 
 **Install:**
 
-After clone:
+`$ git clone https://github.com/alirezarpi/air-net-led.git`
 
 `$ cd air-net-led/`
 
