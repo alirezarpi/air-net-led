@@ -11,7 +11,7 @@ fi
 
 if [[ "$1" == "stop" ]]; then
 		tput setaf 1
-		pgrep -f air-net-led-ip.sh | xargs kill -9 
+		pgrep -f air-net-led-flex.sh | xargs kill -9 
 fi
 
 echo -e "\033[33mIf you had air-net-led service running, it is Stopped\033[00m"
