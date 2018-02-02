@@ -11,7 +11,7 @@ fi
 
 while true; do
 		ping -c 1 4.2.2.4 &> /dev/null
-		if [[ "$?" -eq "0" ]]; then
+		if [[ "$?" == "0" ]]; then
 			echo 0 > /sys/class/leds/$apFolder/brightness
 		else
 			echo 255 > /sys/class/leds/$apFolder/brightness
