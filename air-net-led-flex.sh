@@ -45,4 +45,4 @@ while true; do
 		fi
 		sleep 0.1
 done &
-echo -e "\033[31mStop this with \033[00m \033[34m'sudo air-net-led.sh stop'\033[00m"
+echo -e "\033[31mStop this with \033[00m \033[34m'sudo air-net-led-flex.sh stop'\033[00m"
