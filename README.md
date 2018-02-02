@@ -17,7 +17,7 @@ Airplane LED **OFF** = Internet Access
 
 `$ chmod +x air-net-led.sh && sudo cp air-net-led.sh /usr/bin/`
 
-Remember to run it as **root user** ( `$ sudo air-net-led.sh` )
+Remember to run it as **root user** ( `$ sudo air-net-led.sh &` )
 
 Also you can use more flexible script that you can specify **Target** and **Request Count** 
 with it to monitor any host.
