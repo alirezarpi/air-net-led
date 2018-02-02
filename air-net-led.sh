@@ -17,4 +17,4 @@ while true; do
 			echo 255 > /sys/class/leds/$apFolder/brightness
 		fi
 		sleep 1
-done &
+done 
