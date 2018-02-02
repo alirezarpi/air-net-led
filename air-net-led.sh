@@ -10,7 +10,7 @@ if [[ "$apFolder" == "" ]]; then
 fi   
 
 while true; do
-		netCvar=$(ping -c 1 4.2.2.4 | grep "64 bytes" | cut -d " " -f 1 2>/dev/null)
+		netCvar=$(ping -c 2 4.2.2.4 | grep "64 bytes" | cut -d " " -f 1 2>/dev/null)
 		if [[ netCvar -eq "64" ]]; then
 			echo 0 > /sys/class/leds/$apFolder/brightness
 		else
