@@ -11,6 +11,7 @@ fi
 
 if [[ "$1" == "stop" ]]; then
 		tput setaf 1
+		echo 0 > /sys/class/leds/$apFolder/brightness
 		pgrep -f air-net-led-flex.sh | xargs kill -9 
 fi
 
