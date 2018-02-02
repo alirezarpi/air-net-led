@@ -22,7 +22,7 @@ Remember to run it as **root user** ( `$ sudo air-net-led.sh` )
 Also you can use more flexible script that you can specify **Target** and **Request Count** 
 with it to monitor any host.
 
-`$ chmod +x air-net-led-flex.sh && sudo cp air-net-led.sh /usr/bin/`
+`$ chmod +x air-net-led-flex.sh && sudo cp air-net-led-flex.sh /usr/bin/`
 
 Remember to use it as **root user** ( `$ sudo air-net-led-flex.sh` ) too.
 
