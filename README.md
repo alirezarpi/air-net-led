@@ -1,7 +1,7 @@
 # air-net-led
 **It's simple..**
 
-If you have **Airplane LED** on your laptopYou wont need to run pings and stuff to see if you have Internet access, because:
+If you have **Airplane LED** on your laptop then you wont need to run pings and stuff to see if you have Internet access, because:
 
 Airplane LED **ON** = No Internet Access
 
