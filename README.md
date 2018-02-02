@@ -1,7 +1,7 @@
 # air-net-led
 **It's simple..**
 
-You wont need to run pings and stuff to see if you have Internet access, because:
+If you have **Airplane LED** on your laptopYou wont need to run pings and stuff to see if you have Internet access, because:
 
 Airplane LED **ON** = No Internet Access
 
@@ -17,8 +17,14 @@ Airplane LED **OFF** = Internet Access
 
 `$ chmod +x air-net-led.sh && sudo cp air-net-led.sh /usr/bin/`
 
+Remember to run it as **root user** ( `$ sudo air-net-led.sh` )
 
-Remember to run it as **root user** (`$ sudo air-net-led.sh &` )
+Also you can use more flexible script that you can specify **Target** and **Request Count** 
+with it to monitor any host.
+
+`$ chmod +x air-net-led-flex.sh && sudo cp air-net-led.sh /usr/bin/`
+
+Remember to use it as **root user** ( `$ sudo air-net-led-flex.sh` ) too.
 
 `----------------------------------------------------------------`
 
