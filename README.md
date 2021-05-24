@@ -7,7 +7,7 @@ Airplane LED **ON** = No Internet Access
 
 Airplane LED **OFF** = Internet Access
 
-`----------------------------------------------------------------`
+---
 
 **Install:**
 
@@ -26,7 +26,7 @@ with it to monitor any host.
 
 Remember to use it as **root user** ( `$ sudo air-net-led-flex.sh` ) too.
 
-`----------------------------------------------------------------`
+---
 
 You can do 
 
@@ -34,7 +34,7 @@ You can do
 
 to run at boot time.
 
-`----------------------------------------------------------------`
+---
 
 NOTE: Tested on Asus Laptops -Debian Base- 
 
